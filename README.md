@@ -1,4 +1,4 @@
-# Sparks Foundation Data Science Internship
+# The Sparks Foundation Data Science Internship
 
 ## Description
 Some of the basic Internship Tasks which were assigned by The Sparks Foundation during their virtual Data Science Internship program. The tasks are of beginner level and pretty easy to perform where you will get knowledge about classification and regression algorithms, Supervised and unsupervised learning including data analysis.
